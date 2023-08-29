@@ -13,7 +13,7 @@ echo "Instalando o unzip..."
 
 apt install unzip -y
 
-echo "Baixando e copiando aquivis da aplicação..."
+echo "Baixando e copiando aquirvos da aplicação..."
 
 cd /tmp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
